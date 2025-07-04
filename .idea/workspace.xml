@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ebf2a9e-958c-4c7e-8d08-c8a19b0cbd7f" name="Changes" comment="[rule] 添加初始文件结构" />
+    <list default="true" id="9ebf2a9e-958c-4c7e-8d08-c8a19b0cbd7f" name="Changes" comment="[rule/matlab/ai] 规则调整/学习路径" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +51,7 @@
       <workItem from="1751421541398" duration="519000" />
       <workItem from="1751422089900" duration="1324000" />
       <workItem from="1751503782030" duration="15000" />
+      <workItem from="1751630182349" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="[rule] 添加初始文件结构">
       <created>1751421661129</created>
@@ -54,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751421661129</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[rule/matlab/ai] 规则调整/学习路径">
+      <created>1751630371330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751630371330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,7 +85,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="[rule] 添加初始文件结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="[rule] 添加初始文件结构" />
+    <MESSAGE value="[rule/matlab/ai] 规则调整/学习路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="[rule/matlab/ai] 规则调整/学习路径" />
   </component>
 </project>
