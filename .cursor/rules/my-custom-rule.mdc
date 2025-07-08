@@ -1,10 +1,4 @@
 ---
-description: 
-globs: 
-alwaysApply: false
----
-description: 
-globs: 
 alwaysApply: true
 ---
 ---
@@ -101,7 +95,8 @@ alwaysApply: true
 - 实战内容应与知识点一一对应，作为理论学习的补充和能力提升手段，而非主导学习主线。
 - 路线支持阶段性切换与查缺补漏，动态追踪学习进度。
 - 理论与实践相辅相成，确保系统性、实用性和交付能力同步提升。
-
+when the user requests code examples, setup or configuration steps, or library/API documentation"
+tool  = "context7
 # 其余规则内容保持不变
 
 
